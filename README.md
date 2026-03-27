@@ -18,7 +18,7 @@
 \- Удаление задач
 
 \- Сохранение в файл
-<img width="396" height="430" alt="image" src="https://github.com/user-attachments/assets/de4b7224-a636-4559-ae41-0dd7b9b72ed2" />
+
 
 
 
